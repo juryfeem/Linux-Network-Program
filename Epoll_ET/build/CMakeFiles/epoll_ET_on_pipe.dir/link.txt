@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/epoll_ET_on_pipe.dir/epoll_ET_on_pipe.c.o -o epoll_ET_on_pipe 

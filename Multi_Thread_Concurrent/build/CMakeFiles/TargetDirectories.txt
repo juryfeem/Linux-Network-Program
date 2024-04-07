@@ -1,0 +1,3 @@
+/home/dete/Documents/Multi_Thread_Concurrent/build/CMakeFiles/server.dir
+/home/dete/Documents/Multi_Thread_Concurrent/build/CMakeFiles/edit_cache.dir
+/home/dete/Documents/Multi_Thread_Concurrent/build/CMakeFiles/rebuild_cache.dir

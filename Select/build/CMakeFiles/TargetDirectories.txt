@@ -1,0 +1,4 @@
+/home/dete/Documents/Select/build/CMakeFiles/server.dir
+/home/dete/Documents/Select/build/CMakeFiles/client.dir
+/home/dete/Documents/Select/build/CMakeFiles/edit_cache.dir
+/home/dete/Documents/Select/build/CMakeFiles/rebuild_cache.dir

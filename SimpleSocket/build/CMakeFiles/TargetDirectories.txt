@@ -1,0 +1,4 @@
+/home/dete/Documents/SimpleSocket/build/CMakeFiles/server.dir
+/home/dete/Documents/SimpleSocket/build/CMakeFiles/client.dir
+/home/dete/Documents/SimpleSocket/build/CMakeFiles/edit_cache.dir
+/home/dete/Documents/SimpleSocket/build/CMakeFiles/rebuild_cache.dir

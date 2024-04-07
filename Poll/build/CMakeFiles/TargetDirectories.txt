@@ -1,0 +1,4 @@
+/home/dete/Documents/Poll/build/CMakeFiles/server.dir
+/home/dete/Documents/Poll/build/CMakeFiles/client.dir
+/home/dete/Documents/Poll/build/CMakeFiles/edit_cache.dir
+/home/dete/Documents/Poll/build/CMakeFiles/rebuild_cache.dir

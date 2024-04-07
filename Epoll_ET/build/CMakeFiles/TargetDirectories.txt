@@ -1,0 +1,4 @@
+/home/dete/Documents/Epoll_ET/build/CMakeFiles/epoll_ET_on_pipe.dir
+/home/dete/Documents/Epoll_ET/build/CMakeFiles/epoll_ET_on_net.dir
+/home/dete/Documents/Epoll_ET/build/CMakeFiles/edit_cache.dir
+/home/dete/Documents/Epoll_ET/build/CMakeFiles/rebuild_cache.dir
