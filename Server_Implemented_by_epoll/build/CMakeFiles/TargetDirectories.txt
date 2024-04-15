@@ -1,0 +1,3 @@
+/home/dete/Documents/Socket/Server_Implemented_by_epoll/build/CMakeFiles/server.dir
+/home/dete/Documents/Socket/Server_Implemented_by_epoll/build/CMakeFiles/edit_cache.dir
+/home/dete/Documents/Socket/Server_Implemented_by_epoll/build/CMakeFiles/rebuild_cache.dir
