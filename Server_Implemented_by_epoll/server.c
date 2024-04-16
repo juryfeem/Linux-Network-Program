@@ -262,7 +262,7 @@ void send_dir(int cfd, const char *dir)
     }
     sprintf(buf + strlen(buf), "</table></body></html>");
     send(cfd, buf, strlen(buf), 0);
-    printf("dir message send OK!!!");
+    printf("dir message send OK!!!\n");
 #if 0
     DIR* dir = opendir(dir);
     if(dir = NULL){
@@ -331,7 +331,7 @@ void http_request(int cfd, char *path)
     char *file = path + 1;
     if (strcmp(path, "/") == 0)
     {
-        file = "./";
+        file = ".";
     }
     struct stat sbuf;
     // 判断文件存在

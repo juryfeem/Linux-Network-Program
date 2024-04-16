@@ -7,11 +7,11 @@
 #define FILE_DIR "../documents"
 
 // main函数传参 argv[1] -> port,否则默认10086,然后启动epoll
-int main(int arg, char *argv[])
+int main(int argc, char *argv[])
 {
     int port = 10086;
     // 确认端口
-    if (arg == 1)
+    if (argc > 1)
     {
         port = atoi(argv[1]);
     }
